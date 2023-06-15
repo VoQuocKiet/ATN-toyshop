@@ -13,7 +13,7 @@ require_once 'header.php'
     margin-bottom : 20px;
     background:rgb(0, 149,246,0.3);
     border:1px solid white;
-    " ><a href ="./addpro.php" >Add Product</a></button>
+    " ><a href ="./addproduct.php" >Add Product</a></button>
     <form name="frm" method="post" action="">
             <table id="tablecategory" class="table table-striped table-bordered" cellspacing="0" width="100%">
                 <thead>
