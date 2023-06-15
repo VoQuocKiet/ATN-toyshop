@@ -6,10 +6,10 @@ class connectju{
     public $dbName;
     public function __construct()
     {
-        // $this->sever = "co28d739i4m2sb7j.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-        // $this->user = "lmg9h0ubww8kzymm";
-        // $this->password = "bt7rd4bvwok2n6oi";
-        // $this->dbName = "jv9og4or2m0txhel";
+        $this->sever = "l6glqt8gsx37y4hs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+        $this->user = "sl48zvvaomsn8lwg";
+        $this->password = "hlu2p4mz7g7nrjwn";
+        $this->dbName = "w78mnyg96eca9lxk";
         // $this->sever = "";
         // $this->user = "root";
         // $this->password = "";
