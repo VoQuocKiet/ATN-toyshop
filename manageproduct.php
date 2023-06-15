@@ -18,8 +18,8 @@ require_once 'header.php'
             <table id="tablecategory" class="table table-striped table-bordered" cellspacing="0" width="100%">
                 <thead>
                     <tr>
-                        <th><strong>Category ID</strong></th>
-                        <th><strong>Category Name</strong></th>
+                        <th><strong>Product ID</strong></th>
+                        <th><strong>Product Name</strong></th>
                         <th><strong>Action</strong></th>
                     </tr>
                 </thead>
